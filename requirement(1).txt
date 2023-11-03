@@ -1,1 +1,0 @@
-pip install mediapipe==0.8.9.1
